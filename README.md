@@ -16,4 +16,5 @@ This project shows how to develop famous hangman game using React and Redux. It 
 6. Click on game won or loose notification button to restart the game.
 7. Click on help to see above instructions during the game.
 
+Following screenshot shows user interface(UI) of the game.
 ![Hangman Game](./HangmanPic.PNG)
