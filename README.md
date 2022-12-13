@@ -1,3 +1,6 @@
+#Hangman
+This project shows how to develop famous hangman game using React and Redux. It shows how different react components render synchronously using global state.
+
 # Instructions to Install and Run
 
 1. Use `npm install` to download dependencies into node_modules folder.
