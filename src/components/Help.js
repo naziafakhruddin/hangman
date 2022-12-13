@@ -8,7 +8,7 @@ const Help = () =>{
     //local state to show and hide help
     const [showHelp,setShowHelp] = useState(false)
     //List items to be shown as help instructions
-    const helpItems = ["Click on letters to guess the hidden word","Seven mistakes can be made","Find meaning of words to win more."]
+    const helpItems = ["At the start of the game all the letters are hidden. Hidden letters are masked by underscore character.","Use mouse to enter word on keypad of alphabets.","There are seven (7) chances to make mistake. One every mistake a part of the hangman figure is shown.","If the letter is correct then it appears on top of the screen.","If player chooses all correct letters before making seven mistakens then game is won.","Click on game won or loose notification button to restart the game.",""]
     return (
         <main>
             {/*Help option*/}
