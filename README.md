@@ -15,3 +15,5 @@ This project shows how to develop famous hangman game using React and Redux. It 
 5. If player chooses all correct letters before making seven mistakens then game is won.
 6. Click on game won or loose notification button to restart the game.
 7. Click on help to see above instructions during the game.
+
+![Hangman Game](./HangmanPic.png)
